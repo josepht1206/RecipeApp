@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="title_home">All Dishes</string>
+    <string name="title_dashboard">Favorite</string>
+    <string name="title_notifications">Random Dish</string>
+    <string name="splash_screen_title">Recipe App</string>
+    <string name="image_contentDescription">image</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_type">Type</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_ingredients">Ingredients</string>
+    <string name="lbl_cooking_time_in_minutes">Cooking Time In Minutes</string>
+    <string name="lbl_direction_to_cook">Direction To Cook</string>
+    <string name="lbl_add_dish">ADD RECIPE</string>
+    <string name="recipe_add">Add Recipe</string>
+
+    <string name="title_select_image">Select Image Action</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+
+    <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+
+    <string name="err_msg_select_recipe_image">Select Dish Image.</string>
+    <string name="err_msg_enter_recipe_title">Enter dish title.</string>
+    <string name="err_msg_select_recipe_type">Select dish type.</string>
+    <string name="err_msg_select_recipe_category">Select dish category.</string>
+    <string name="err_msg_enter_recipe_ingredients">Enter dish ingredients.</string>
+    <string name="err_msg_select_recipe_cooking_time">Select dish cooking time.</string>
+    <string name="err_msg_enter_recipe_cooking_instructions">Enter dish cooking instructions.</string>
+    <string name="label_no_dishes_added_yet">No dishes added yet!!!</string>
+    <string name="dish_resource_image_name">Dish Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Dish details fragment layout</string>
+    <string name="title_dish_details">Dish Details</string>
+
+    <string name="lbl_estimate_cooking_time">The approx time required to cook the dish is %1$s minutes.</string>
+    <string name="cook_time_format">The approx time required to cook the dish is %1$s minutes.</string>
+    <string name="fav_dishes_fragment_label">No favorite dishes added yet</string>
+    <string name="action_edit_dish">Edit Dish</string>
+    <string name="action_delete_dish">Delete Dish</string>
+    <string name="edit_dish_title">Edit Dish</string>
+    <string name="lbl_update_dish">Update Dish</string>
+    <string name="select_filter">Select Filter</string>
+
+</resources>
